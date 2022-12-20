@@ -1,4 +1,4 @@
-# Konnect PHP SDK (unofficial)
+# Konnect PHP SDK
 
 <p align="center">
     <a href="https://konnect.network/" target="_blank">
